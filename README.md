@@ -6,7 +6,7 @@ Cuando se cierra el Outlook mientras se está sincronizando hay veces que se que
 
 ## ¿Cómo ejecutarlo?
 
-Para ejecutar el programa simplemente tenemos que hacer doble click, como si fuéramos a abrirlo.
+Para ejecutar el programa simplemente tenemos que hacer doble click en el archivo `Reboot Outlook.bat`, como si fuéramos a abrirlo.
 
 ## ¿Qué hace?
 
